@@ -1,0 +1,49 @@
+-------------------- Input type : 0 = None 1 = Throttle, 2 = Roll, 3 = Pitch, 4 = Yaw --------------------
+Axis 0 :
+     Input type = 4
+     Invert = false
+     Offset = -0.500000
+     Scale = 2.000000
+     Deadzone = 0.000000
+     Min = -1.000000
+     Max = 1.000000
+Axis 1 :
+     Input type = 1
+     Invert = true
+     Offset = 0.000000
+     Scale = 1.000000
+     Deadzone = 0.000000
+     Min = -1.000000
+     Max = 1.000000
+Axis 2 :
+     Input type = 2
+     Invert = false
+     Offset = -0.500000
+     Scale = 2.000000
+     Deadzone = 0.000000
+     Min = -1.000000
+     Max = 1.000000
+Axis 3 :
+     Input type = 0
+     Invert = false
+     Offset = 0.000000
+     Scale = 1.000000
+     Deadzone = 0.000000
+     Min = -1.000000
+     Max = 1.000000
+Axis 4 :
+     Input type = 0
+     Invert = false
+     Offset = 0.000000
+     Scale = 1.000000
+     Deadzone = 0.000000
+     Min = -1.000000
+     Max = 1.000000
+Axis 5 :
+     Input type = 3
+     Invert = false
+     Offset = -0.500000
+     Scale = 2.000000
+     Deadzone = 0.000000
+     Min = -1.000000
+     Max = 1.000000
